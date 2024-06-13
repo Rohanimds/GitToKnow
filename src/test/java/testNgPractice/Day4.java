@@ -6,6 +6,7 @@ public class Day4 {
 	@Test
 	public void webLoginHomeLoan() {
 		System.out.println("Im browser Home");
+		System.out.println("Git to know did a change");
 	}
 	@Test
 	//	public void mobileLoginHomeLoan() {
