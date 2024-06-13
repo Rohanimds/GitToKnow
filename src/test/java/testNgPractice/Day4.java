@@ -7,11 +7,13 @@ public class Day4 {
 	public void webLoginHomeLoan() {
 		System.out.println("Im browser Home");
 		System.out.println("Git to know did a change");
+		System.out.println("Gitstuff did the change");
 	}
 	@Test
 	//	public void mobileLoginHomeLoan() {
 	public void mobileLoginHomeLoan() {
 		System.out.println("Im mobile Home");
+		System.out.println("Gitstuff did the change");
 	}
 	
 	@Test(groups = "smoke")
